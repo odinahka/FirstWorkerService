@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=ODINAKA-PC; Database=MyBootie;Trusted_Connection=True;MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
